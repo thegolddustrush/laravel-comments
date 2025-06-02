@@ -1,12 +1,12 @@
 {
-    "name": "ryangjchandler/laravel-comments",
+    "name": "thegolddustrush/laravel-comments",
     "description": "A dead-simple comments package for Laravel.",
     "keywords": [
-        "ryangjchandler",
+        "thegolddustrush",
         "laravel",
         "laravel-comments"
     ],
-    "homepage": "https://github.com/ryangjchandler/laravel-comments",
+    "homepage": "https://github.com/thegolddustrush/laravel-comments",
     "license": "MIT",
     "authors": [
         {
